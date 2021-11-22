@@ -6,7 +6,7 @@
         "Sid": "Stmt1637315976388",
         "Action": "s3:*",
         "Effect": "Allow",
-        "Resource": "arn:aws:s3:::www.vahagn.acadevopscourse.xyz",
+        "Resource": "arn:aws:s3:::vahagn.acadevopscourse.xyz/*",
         "Principal": "*"
       }
     ]
